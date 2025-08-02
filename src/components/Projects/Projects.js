@@ -26,7 +26,7 @@ function Projects() {
               imgPath={instan}
               isBlog={false}
               title="Instan.fr — Aide à domicile"
-              description="Refonte complète de la plateforme Instan.fr, un service d’aide à la personne avec deux portails : back-office administratif et interface intervenants. Contribution aux deux côtés, avec développement de fonctionnalités comme la gestion des missions, factures, calendriers de disponibilité, notification, formulaires, etc. Stack MERN (MongoDB, Express, React, Node) et Next.js pour le SEO et les performances.
+              description="Participation à Refonte de la plateforme Instan.fr, un service d’aide à la personne avec deux portails : back-office administratif et interface intervenants. Contribution aux deux côtés, avec développement de fonctionnalités comme la gestion des missions, factures, calendriers de disponibilité, notification, formulaires, etc. Stack MERN (MongoDB, Express, React, Node) et Next.js pour le SEO et les performances.
 Tech : React.js, SCSS, Bootstrap, Node.js, MongoDB, Next.js."
               demoLink="https://www.instan.fr/"
             />
@@ -70,9 +70,10 @@ Tech : React, Redux Toolkit, Node.js, Express, MongoDB."
             <ProjectCard
               imgPath={receipt}
               isBlog={false}
-              title="Receipt App — Application des recettes de cuisines "
-              description="Application web de gestion de reçus numériques. Les utilisateurs peuvent ajouter, classer et consulter leurs reçus par catégories. Travail effectué sur l’intégration de l’authentification, la mise en place de l’API backend, et des fonctionnalités comme la recherche, l’upload d’images, la pagination, etc.
-Tech : Next.js, React, Node.js, MongoDB, TypeScript."
+              title="Receipt App — Application de gestion de recettes de cuisine"
+              description="Application web permettant la gestion de recettes de cuisine. Les utilisateurs peuvent ajouter, classer et consulter des recettes par catégorie. Travail réalisé sur l’intégration de l’authentification, ainsi que des fonctionnalités telles que la recherche, l’upload d’images, la pagination, etc.
+              Tech : Next.js, React, Node.js, MongoDB, TypeScript."
+              
             />
           </Col>
         </Row>
